@@ -1,3 +1,3 @@
 # linux-projects
-Find, Delete or Add linux users.
+Find, Delete or Add linux users.\
 Note: You must run it as root!
